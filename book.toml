@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Computer Science Notes"
+
+[output.html]
+no-section-label = true
+mathjax-support = true
