@@ -12,8 +12,10 @@
         - [Week 1](./semester1/notes/cisco-networking-1/week1.md)
     
     - [Health & Safety](semester1/notes/health-and-safety/README.md)
+        - [Week 1](./semester1/notes/health-and-safety/week1.md)
     
     - [Mathematics 1](semester1/notes/mathematics-1/README.md)
+        - [Week 1](./semester1/notes/mathematics-1//week1.md)
     
     - [Professional Comunication](semester1/notes/professional-communication/README.md)
 - [Labs](./semester1/labs/labs.md)
